@@ -2,3 +2,4 @@ Bu bir test dosyasıdır.
 Bakalım bugün hava nasıl olacak?
 ekleme yapalım.
 Git konsoldan yaptığım değişiklik bana geldi.
+Tekrar bir değişiklik yapıp bunun da yansıdığını görelim.
