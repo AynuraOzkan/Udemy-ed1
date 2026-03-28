@@ -1,2 +1,3 @@
 Bu bir test dosyasıdır.
-Bakalım bugün hava nasıl olacak?git
+Bakalım bugün hava nasıl olacak?
+ekleme yapalım.
