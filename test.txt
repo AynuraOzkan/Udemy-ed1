@@ -2,4 +2,9 @@ Bu bir test dosyasıdır.
 Bakalım bugün hava nasıl olacak?
 ekleme yapalım.
 Git konsoldan yaptığım değişiklik bana geldi.
+<<<<<<< HEAD
 Tekrar bir değişiklik yapıp bunun da yansıdığını görelim.
+=======
+Tekrar bir değişiklik yapıp bunun da yansıdığını görelim.
+şimdi de direkt değişikliği maine yansıtacağım.
+>>>>>>> a3b328d4725eff48f428dc1ce1d71ec43015ea56
