@@ -11,3 +11,4 @@ Tekrar bir değişiklik yapıp bunun da yansıdığını görelim.
 bakalım şimdi hangi durumda.
 Harika!
 test branchine bu değişikliği ekliyorum.
+Olağanüstü!Bakalım bu nasıl yansıyacak
