@@ -10,3 +10,4 @@ Tekrar bir değişiklik yapıp bunun da yansıdığını görelim.
 >>>>>>> a3b328d4725eff48f428dc1ce1d71ec43015ea56
 bakalım şimdi hangi durumda.
 Harika!
+test branchine bu değişikliği ekliyorum.
